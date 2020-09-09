@@ -7,3 +7,5 @@
   
 ![yukineko's github stats](https://github-readme-stats.vercel.app/api?username=hideki0403&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hideki0403&theme=dracula)
