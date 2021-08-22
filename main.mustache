@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-<a href=" https://discordapp.com/users/242183143564640258">
+<a href="https://discordapp.com/users/242183143564640258">
   <img align="left" alt="yukineko's Discord" width="22px" src="https://raw.githubusercontent.com/hideki0403/hideki0403/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/hideki_0403">
@@ -8,7 +8,7 @@
 <a href="https://open.spotify.com/user/hideki030403">
   <img align="left" alt="yukineko's Spotify" width="22px" src="https://raw.githubusercontent.com/hideki0403/hideki0403/master/assets/spotify.svg" />
 </a>
-  
+    
 🌱 I’m currently learning Kotlin and Vue.js  
 
 **Languages and Tools:**
