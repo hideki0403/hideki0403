@@ -9,7 +9,7 @@
   <img align="left" alt="yukineko's Spotify" width="22px" src="https://raw.githubusercontent.com/hideki0403/hideki0403/master/assets/spotify.svg" />
 </a>
 <br />
-
+  
 🌱 I’m currently learning Kotlin and Vue.js  
 
 **Languages and Tools:**
@@ -24,7 +24,6 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=hideki0403e&style=flat-square)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideki0403&theme=nord_dark)  
   
 あなたは ![Counter](https://yukineko-counter.glitch.me/count.svg) 人目の訪問者です！
