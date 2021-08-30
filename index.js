@@ -10,6 +10,9 @@ const languagesAndTools = [
         name: 'JavaScript',
         color: '#F7B93E'
     }, {
+        name: 'C Sharp',
+        color: '#239120'
+    }, {
         name: 'HTML5',
         color: '#E34F26'
     }, {
@@ -21,9 +24,6 @@ const languagesAndTools = [
     }, {
         name: 'Vue.js',
         color: '#4FC08D'
-    }, {
-        name: 'Visual Studio Code',
-        color: '#007ACC'
     }, {
         name: 'MongoDB',
         color: '#47A248'
