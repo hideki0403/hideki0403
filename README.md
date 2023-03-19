@@ -25,7 +25,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideki0403&theme=nord_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideki0403&theme=nord_dark?)  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/242183143564640258?bg=2e3440)](https://discord.com/users/242183143564640258)
   
