@@ -43,6 +43,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: hideki030403
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
@@ -50,4 +51,5 @@ jobs:
           plugin_wakatime_sections: time, languages-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: yukineko
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           repositories_forks: yes
